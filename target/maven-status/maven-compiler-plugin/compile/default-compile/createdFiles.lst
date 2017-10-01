@@ -1,0 +1,16 @@
+br/com/MechFinder/Model/MechanicService.class
+br/com/MechFinder/repository/UserRepository.class
+br/com/MechFinder/enums/PhoneType.class
+br/com/MechFinder/Model/Site.class
+br/com/MechFinder/enums/Gender.class
+br/com/MechFinder/enums/PaymentType.class
+br/com/MechFinder/Model/User.class
+br/com/MechFinder/Model/Contact.class
+br/com/MechFinder/Model/Image.class
+br/com/MechFinder/Model/Ad.class
+br/com/MechFinder/Model/Evaluation.class
+br/com/MechFinder/service/UserService.class
+br/com/MechFinder/Model/Address.class
+br/com/MechFinder/SpringbootConfigApplication.class
+br/com/MechFinder/controller/UserController.class
+br/com/MechFinder/enums/UserType.class
